@@ -1,0 +1,12 @@
+#main1 {
+	width: 1200px;
+	height: 80px;
+	margin: 0px auto;
+	//background: lightcyan;
+	text-align: center;
+	text-decoration: none;
+	padding: 8px 0 38px 0;
+	line-height: 30px;
+	font-size: small;
+	float: none;
+}

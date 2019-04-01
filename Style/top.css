@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#main_1 {
+	width: 1200px;
+	height: 150px;
+	margin: 0px auto;
+}
+
+#main_1_1 {
+	font-size: 40px;
+	text-align: left;
+	position: absolute;
+	left: 30px;
+	top: 30px;
+	font-family: "微软雅黑";
+	font-style: oblique;
+	font-weight: bold;
+	color: white;
+}
